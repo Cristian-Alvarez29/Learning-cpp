@@ -1,2 +1,2 @@
-# learning-cpp
-Recopilación de ejercicios básicos en c++
+# Learning-cpp
+Compilation of basic exercises in c++😁
