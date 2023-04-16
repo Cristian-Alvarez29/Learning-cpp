@@ -2,10 +2,11 @@
 #include <iostream>
 #include <stdlib.h>
 /*run this program using the console pauser or add your own getch, system("pause") or input loop*/
+
 int main() {
 
 int major{},minor{},num1{},num2{},num3{};
-    
+   
     std::cout<<"Enter the first number: ";
     std::cin>>num1;
     std::cout<<"Enter the second number: ";
