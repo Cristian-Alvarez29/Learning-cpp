@@ -1,5 +1,5 @@
 # Learning-cpp
 Compilation of **basic exercises** in c++ 😁
->Helloworld.cpp.
->Greater-lesser_3numbers.cpp
+1.Helloworld.cpp
+2.Greater-lesser_3numbers.cpp
 
